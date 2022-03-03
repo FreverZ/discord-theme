@@ -2,7 +2,7 @@
 
 :root {
     --background-image-blur: 0px;
-    --window-padding: 5px;
+    --window-padding: 3px;
     --window-roundness: 16px;
     --TB-top: calc(var(--server-container) + var(--window-padding));
     --TB-tr-roundness: var(--window-roundness);
